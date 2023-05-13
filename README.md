@@ -8,7 +8,7 @@
 Dedicated and ambitious Full Stack Web Developer with training from Coding Academy. Strong foundation in various programming languages, frameworks, and tools. Skilled in front-end and back-end development. I am passionate about creating efficient, functional, and visually appealing web applications and am always eager to learn new technologies and techniques.
 </p>
 
-- 🔭 I’m currently working on [Cookmates](https://github.com/idoperi104/Cookmates)
+- 🔭 I’m currently working on [Cookmates-frontend](https://github.com/idoperi104/Cookmates-frontend)
 
 - 📫 How to reach me **idoperi104@gmail.com**
 
