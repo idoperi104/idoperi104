@@ -10,7 +10,7 @@ Dedicated and ambitious Full Stack Web Developer with training from Coding Acade
 
 - 🏆 My favorite project is [Merllo](https://github.com/idoperi104/Merllo)
 
-- 🔭 I’m currently working on [Cookmates-frontend](https://github.com/idoperi104/Cookmates-frontend)
+- 🏆 My favorite project is [Merllo](https://github.com/idoperi104/Merllo)
 
 - 📫 How to reach me **idoperi104@gmail.com**
 
