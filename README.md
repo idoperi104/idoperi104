@@ -10,7 +10,7 @@ Dedicated and ambitious Full Stack Web Developer with training from Coding Acade
 
 - 🏆 My favorite project is [April Flowers](https://github.com/idoperi104/April-Flowers)
 
-- 🏆 My 2nd favorite project is [Merllo](https://github.com/idoperi104/Merllo)
+- 🥈 My 2nd favorite project is [Merllo](https://github.com/idoperi104/Merllo)
 
 - ☎️ My phone number **+972-52-500-0164**
   
