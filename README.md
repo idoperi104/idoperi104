@@ -8,9 +8,9 @@
 Dedicated and ambitious Full Stack Web Developer with training from Coding Academy. Strong foundation in various programming languages, frameworks, and tools. Skilled in front-end and back-end development. I am passionate about creating efficient, functional, and visually appealing web applications and am always eager to learn new technologies and techniques.
 </p>
 
-- 🏆 My favorite project is [Merllo](https://github.com/idoperi104/Merllo)
+- 🏆 My favorite project is [April Flowers](https://github.com/idoperi104/April-Flowers)
 
-- 🏆 My favorite project is [Merllo](https://github.com/idoperi104/Merllo)
+- 🏆 My 2nd favorite project is [Merllo](https://github.com/idoperi104/Merllo)
 
 - 📫 How to reach me **idoperi104@gmail.com**
 
