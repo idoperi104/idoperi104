@@ -12,6 +12,8 @@ Dedicated and ambitious Full Stack Web Developer with training from Coding Acade
 
 - 🏆 My 2nd favorite project is [Merllo](https://github.com/idoperi104/Merllo)
 
+- ☎️ My phone number **052-5000164**
+  
 - 📫 How to reach me **idoperi104@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
